@@ -1,0 +1,3 @@
+
+This is the first of My Portfolio Works that will be about my work experience and challenges.   It will display some basic coding skills and perhaps some
+beyond basic stuff.   We shall see...
