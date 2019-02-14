@@ -1,0 +1,56 @@
+body {
+max-width: 960px ;
+}
+
+h1, h2, h3 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.name {
+  
+  background-color: #4aaaa5; 
+  border-color: #cccccc;
+  padding: 10px;
+  width: 25%;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+
+
+.topnav-right {
+  float: right;
+    
+    }
+  
+    
+h1 {
+    width:
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #4aaaa5;
+    text-align: left;
+    background: #ffffff
+  
+    
+    
+    }
+
+    img {
+    float: left;  
+    padding-right: 10px
+    width: 50%
+    height: 50%
+    } 
+    
+    main {
+      background: #ffffff 
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+
+  
+  
